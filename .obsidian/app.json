@@ -1,1 +1,14 @@
-{"vault":{"fs":{"useRaf":true}},"app":{"base":"obsidian"}}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00 - INBOX",
+  "attachmentFolderPath": "00 - INBOX",
+  "templateFolder": "05 - TEMPLATES",
+  "dailyNotesFolder": "06 - DAILY",
+  "dailyNotesFormat": "YYYY-MM-DD",
+  "propertiesInDocument": "source",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "spellcheck": true,
+  "tabSize": 2
+}

@@ -1,0 +1,41 @@
+# 🧠 Second Brain — P.A.R.A
+
+Welcome to your second brain. This vault uses the **P.A.R.A** framework.
+
+---
+
+## 📋 Index
+
+### 00 — INBOX
+> Tempat menangkap ide cepat sebelum diorganisir
+
+### 01 — PROJECTS
+> Proyek aktif dengan tenggat waktu dan hasil spesifik
+
+### 02 — AREAS
+> Tanggung jawab jangka panjang yang perlu perawatan rutin
+
+### 03 — RESOURCES
+> Topik menarik & referensi yang bisa berguna nanti
+
+### 04 — ARCHIVES
+> Proyek/area/resource yang sudah tidak aktif
+
+### 05 — TEMPLATES
+> Template untuk membuat note baru
+
+### 06 — DAILY
+> Catatan harian
+
+---
+
+## 🚀 Quick Start
+
+1. **Capture** → tulis apa pun di Inbox
+2. **Organize** → pindahkan ke Projects / Areas / Resources
+3. **Review** → weekly review untuk menjaga sistem tetap rapi
+4. **Archive** → simpan yang sudah selesai
+
+---
+
+_Last updated: {{date}}_
