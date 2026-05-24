@@ -1,3 +1,5 @@
-.obsidian/
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/plugins/
 .DS_Store
 *.log
